@@ -5,20 +5,20 @@
   "developermode": false,
   "language": "en",
   "notification": false,
-  "approval": false,
+  "approval": true,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "☔︎𝗟𝗶𝘀𝗮⚠︎𝗧𝗘𝗫☻︎",
+  "PREFIX": "-",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61556196058001",
+    "61556196058001"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61556196058001",
     ""
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "APPROVED": [61558831411809],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
